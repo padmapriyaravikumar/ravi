@@ -1,0 +1,50 @@
+.profile
+{
+    text-align:center;
+    border:2px dotted black;
+    padding:75px;
+    background-color:aqua;
+    width:250px;
+    height:400px;
+    margin-left:450px;
+    border-radius: 50px;
+}
+#fname{
+    background-color:pink;
+    margin-left:40px;
+}
+#date{
+    background-color:pink;
+    margin-left:40px;
+}
+#female{
+    background-color:pink;
+    margin-left:40px;
+}
+#Reg{
+    background-color:pink;
+    margin-left:40px;
+}
+#year{
+    background-color:pink;
+    margin-left:40px;
+}
+#degree{
+    background-color:pink;
+    margin-left:40px;
+}
+#course{
+    background-color:pink;
+    margin-left:40px;
+}
+#image{
+    height:70px;
+    width:70px;
+    
+}
+.priya{
+    margin-left:30px;
+}
+body{
+    background-color:aquamarine;
+}
